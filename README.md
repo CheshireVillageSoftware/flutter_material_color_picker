@@ -1,3 +1,7 @@
+# Null Safety
+
+Fork adds null safety support. Repository will be deleted once original repo is updated for null safety.
+
 # Flutter Material Color Picker [![pub package](https://img.shields.io/pub/v/flutter_material_color_picker.svg)](https://pub.dartlang.org/packages/flutter_material_color_picker)
 
 Material Color picker is a Flutter widget, that can be customizable.
